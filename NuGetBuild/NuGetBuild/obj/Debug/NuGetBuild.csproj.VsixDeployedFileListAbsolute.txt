@@ -1,0 +1,9 @@
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\NuGetBuild.dll
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\NuGetBuild.pdb
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\GalaSoft.MvvmLight.dll
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\System.Windows.Interactivity.dll
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\NuGetBuild.pkgdef
+C:\Users\Konrad\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\NuGetBuild\1.0\\extension.vsixmanifest

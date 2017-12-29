@@ -1,0 +1,171 @@
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild_MarkupCompile.cache
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\NuGetBuild.dll.config
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\NuGetBuild.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\NuGetBuild.pkgdef
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\NuGetBuild.vsix
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\extension.vsixmanifest
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE100.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE80.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE90.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Threading.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Validation.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\stdole.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE90a.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.MSXML.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE100.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE80.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE90.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Threading.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Validation.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE90a.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuilderControl.g.cs
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild_MarkupCompile.lref
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuilderControl.baml
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.g.resources
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\VSPackage.resources
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.csproj.GenerateResource.Cache
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuilderPackage.cto
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\VSCT.read.1.tlog
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\VSCT.write.1.tlog
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\CtoResourceMerger.cache
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\VSPackage.resources.original
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.dll
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.pdb
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.pkgdef
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.latest.pkgdef
+c:\users\konrad\documents\visual studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\extension.vsixmanifest
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Konrad\Documents\Visual Studio 2015\Projects\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.csprojResolveAssemblyReference.cache
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\NuGetBuild.dll.config
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\NuGetBuild.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\NuGetBuild.pkgdef
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\NuGetBuild.vsix
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE100.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE80.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE90.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.14.0.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Threading.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Validation.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\stdole.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\System.Windows.Interactivity.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\EnvDTE90a.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.MSXML.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.14.0.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Threading.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.Validation.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.csprojResolveAssemblyReference.cache
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuilderControl.g.cs
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild_MarkupCompile.cache
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild_MarkupCompile.lref
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuilderControl.baml
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.g.resources
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\VSPackage.resources
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.csproj.GenerateResource.Cache
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuilderPackage.cto
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\VSCT.read.1.tlog
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\VSCT.write.1.tlog
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\CtoResourceMerger.cache
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\VSPackage.resources.original
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.dll
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.pdb
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.pkgdef
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\NuGetBuild.latest.pkgdef
+E:\Projekty_NET_WPF\NotatkiZPracy\NuGetBuild\NuGetBuild\obj\Debug\extension.vsixmanifest
